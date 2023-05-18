@@ -2,8 +2,8 @@
 Process an image file where the man holding a gun and replace the gun with any musical instrument and change the facial expression of that man. (make him smile).
 
 
-Command to run the project -
-____________________________
+Command to run the project on CPrompt - 
+______________________________________
 
 >> python main.py
 
